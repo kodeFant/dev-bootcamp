@@ -4,7 +4,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 2. [x] Introduction to Front End
 3. [x] Introduction to HTML
 4. [x] Intermediate HTML
-5. [ ] Introduction to CSS
+5. [x] Introduction to CSS
 6. [ ] Advanced CSS
 7. [ ] Bootstrap
 8. [ ] JavaScript: Basics
