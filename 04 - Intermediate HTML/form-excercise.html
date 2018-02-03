@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <h1>Register</h1>
+
+    <form>
+      <div>
+      <label for="firstName" name="firstname">First name:</label>
+      <input id="firstName" type="text" placeholder="John" required>
+      <label for="lastName" name="lastname">Last Name</label>
+      <input id="lastName" name="lastName" type="text" placeholder="Smith" required>
+      </div>
+      <div>
+      <label for="male">Male</label>
+      <input type="radio" name="gender" id="male">
+      <label for="female">Female</label>
+      <input type="radio" name="gender" id="female">
+      <label for="other">Other</label>
+      <input type="radio" name="gender" id="other">
+
+      </div>
+      <div>
+
+      <label for="email">Email:</label>
+      <input type="email" name="email" id="email" placeholder="your email" required>
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password" pattern=".{5,10}" required title="Password must be between 5 and 10 characters">
+
+      </div>
+      <div>
+
+      <label>Birthday:
+        <select name="month" required>
+          <option value="" disabled selected>Month</option>
+          <option value="jan">January</option>
+          <option value="feb">February</option>
+          <option value="aug">August</option>
+        </select>
+
+        <select name="day" required>
+          <option value="" disabled selected>Day</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="24">24</option>
+        </select>
+
+        <select name="year" required>
+          <option value="" disabled selected>Year</option>
+          <option value="1970">1970</option>
+          <option value="1971">1971</option>
+          <option value="1985">1985</option>
+        </select>
+      </label>
+
+      </div>
+      <div>
+      
+      <label for="agreement">I agree to the terms and conditions</label>
+      <input type="checkbox" id="agreement" name="agreed" required>
+      
+      </div>
+
+      <input type="submit" value="Submit">
+
+    </form>
+  </body>
+</html>
