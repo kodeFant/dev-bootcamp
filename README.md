@@ -6,7 +6,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 4. [x] Intermediate HTML
 5. [x] Introduction to CSS
 6. [x] Advanced CSS
-7. [ ] Bootstrap
+7. [x] Bootstrap
 8. [ ] JavaScript: Basics
 9. [ ] JavaScript: Control Flow
 10. [ ] JavaScript: Functions
