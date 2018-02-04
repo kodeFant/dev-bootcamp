@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+#board {
+  width: 50%;
+  margin: 0 auto;
+  height: 300px;
+  padding: 0;
+}
+.grid {
+  border: 1px solid black;
+  height: 100px;
+  width: 33%;
+  display: inline-block;
+  margin: 0 0;
+  padding: 0;
+}
