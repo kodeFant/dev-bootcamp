@@ -1,0 +1,1 @@
+Use indexOf() to search within a string. Returns value on where the search term begins, or -1 if it does not contain it.
