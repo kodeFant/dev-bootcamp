@@ -10,7 +10,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 8. [x] JavaScript: Basics
 9. [x] JavaScript: Control Flow
 10. [x] JavaScript: Functions
-11. [ ] JavaScript: Arrays
+11. [x] JavaScript: Arrays
 12. [ ] JavaScript: Objects
 13. [ ] DOM Manipulation
 14. [ ] DOM Events
