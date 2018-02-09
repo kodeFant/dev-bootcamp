@@ -11,8 +11,8 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 9. [x] JavaScript: Control Flow
 10. [x] JavaScript: Functions
 11. [x] JavaScript: Arrays
-12. [ ] JavaScript: Objects
-13. [ ] DOM Manipulation
+12. [x] JavaScript: Objects
+13. [x] DOM Manipulation
 14. [ ] DOM Events
 15. [ ] Color Game Project
 16. [ ] Introduction to jQuery
