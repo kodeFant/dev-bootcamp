@@ -13,7 +13,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 11. [x] JavaScript: Arrays
 12. [x] JavaScript: Objects
 13. [x] DOM Manipulation
-14. [ ] DOM Events
+14. [x] DOM Events
 15. [ ] Color Game Project
 16. [ ] Introduction to jQuery
 17. [ ] Advanced jQuery
