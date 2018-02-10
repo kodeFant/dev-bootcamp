@@ -18,9 +18,9 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 16. [x] Introduction to jQuery
 17. [x] Advanced jQuery
 18. [x] Todo List Project
-19. [x] OPTIONAL Project: Patatap clone
-20. [ ] Backend Basics
-21. [ ] The Command Line
+19. [ ] OPTIONAL Project: Patatap clone
+20. [x] Backend Basics
+21. [x] The Command Line
 22. [ ] Introduction to NodeJS
 23. [ ] Introduction to Express
 24. [ ] Intermediate Express
