@@ -17,20 +17,21 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 15. [x] Color Game Project
 16. [x] Introduction to jQuery
 17. [x] Advanced jQuery
-18. [ ] Todo List Project
-19. [ ] Backend Basics
-20. [ ] The Command Line
-21. [ ] Introduction to NodeJS
-22. [ ] Introduction to Express
-23. [ ] Intermediate Express
-24. [ ] YelpCamp: Basics
-25. [ ] Databases: MongoDB
-26. [ ] YelpCamp: Data Persistence
-27. [ ] RESTful Routing - Blog App
-28. [ ] Semantic UI
-29. [ ] Databases: Associations
-30. [ ] YelpCamp: Comments
-31. [ ] Authentication - PassportJS
-32. [ ] YelpCamp: Adding Auth
-33. [ ] YelpCamp: Cleaning Up
-34. [ ] Authorization
+18. [x] Todo List Project
+19. [x] OPTIONAL Project: Patatap clone
+20. [ ] Backend Basics
+21. [ ] The Command Line
+22. [ ] Introduction to NodeJS
+23. [ ] Introduction to Express
+24. [ ] Intermediate Express
+25. [ ] YelpCamp: Basics
+26. [ ] Databases: MongoDB
+27. [ ] YelpCamp: Data Persistence
+28. [ ] RESTful Routing - Blog App
+29. [ ] Semantic UI
+30. [ ] Databases: Associations
+31. [ ] YelpCamp: Comments
+32. [ ] Authentication - PassportJS
+33. [ ] YelpCamp: Adding Auth
+34. [ ] YelpCamp: Cleaning Up
+35. [ ] Authorization
