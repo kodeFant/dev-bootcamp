@@ -14,6 +14,7 @@
 
 * In the bottom, paste this (Only applies to Cloud9):
 // Tell Express to listen for requests (start server)
-app.listen(process.env.PORT, process.env.IP, function() {
-    console.log("Server has started!!!");
+app.set('port', 8080);
+app.listen(app.get('port'), function () {
+  console.log('Server is running!!!')
 });
