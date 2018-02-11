@@ -1,0 +1,14 @@
+{
+  "name": "secondexpressapp",
+  "version": "1.0.0",
+  "description": "My first App excercise from Web Developer Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lars Lillo Ulvestad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
