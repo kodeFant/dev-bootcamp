@@ -21,7 +21,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 19. [ ] OPTIONAL Project: Patatap clone
 20. [x] Backend Basics
 21. [x] The Command Line
-22. [ ] Introduction to NodeJS
+22. [x] Introduction to NodeJS
 23. [ ] Introduction to Express
 24. [ ] Intermediate Express
 25. [ ] YelpCamp: Basics
