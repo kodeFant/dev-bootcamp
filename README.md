@@ -24,8 +24,8 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 22. [x] Introduction to NodeJS
 23. [x] Introduction to Express
 24. [x] Intermediate Express
-25. [ ] Working With API's
-26. [ ] YelpCamp: Basics
+25. [x] Working With API's
+26. [x] YelpCamp: Basics
 27. [ ] Databases: MongoDB
 28. [ ] YelpCamp: Data Persistence
 29. [ ] RESTful Routing - Blog App
