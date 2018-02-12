@@ -21,6 +21,11 @@ app.get("/friends", function (req, res) {
     res.render("friends", { friends: friends });
 }); 
 
+app.get("*", function (req, res) {
+  res.send("You must gather your party before venturing forth.");
+})
+
+
 app.set('port', 8080);
 app.listen(app.get('port'), function () {
   console.log('Server is running!!!')
