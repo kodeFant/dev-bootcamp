@@ -26,7 +26,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 24. [x] Intermediate Express
 25. [x] Working With API's
 26. [x] YelpCamp: Basics
-27. [ ] Databases: MongoDB
+27. [x] Databases: MongoDB
 28. [ ] YelpCamp: Data Persistence
 29. [ ] RESTful Routing - Blog App
 30. [ ] Semantic UI
