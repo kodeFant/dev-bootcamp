@@ -28,7 +28,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 26. [x] YelpCamp: Basics
 27. [x] Databases: MongoDB
 28. [x] YelpCamp: Data Persistence
-29. [ ] RESTful Routing - Blog App
+29. [x] RESTful Routing - Blog App
 30. [ ] Databases: Associations
 31. [ ] YelpCamp: Comments
 32. [ ] Authentication - PassportJS
