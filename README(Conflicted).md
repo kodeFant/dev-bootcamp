@@ -26,13 +26,16 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 24. [x] Intermediate Express
 25. [x] Working With API's
 26. [x] YelpCamp: Basics
-27. [ ] Databases: MongoDB
-28. [ ] YelpCamp: Data Persistence
-29. [ ] RESTful Routing - Blog App
-30. [ ] Semantic UI
-31. [ ] Databases: Associations
-32. [ ] YelpCamp: Comments
-33. [ ] Authentication - PassportJS
-34. [ ] YelpCamp: Adding Auth
-35. [ ] YelpCamp: Cleaning Up
-36. [ ] Authorization
+27. [x] Databases: MongoDB
+28. [x] YelpCamp: Data Persistence
+29. [x] RESTful Routing - Blog App
+30. [x] Databases: Associations
+31. [ ] YelpCamp: Comments
+32. [ ] Authentication - PassportJS
+33. [ ] YelpCamp: Adding Auth
+34. [ ] YelpCamp: Cleaning Up
+35. [ ] YelpCamp: Update and Destroy
+36. [ ] YelpCamp: UI Improvements
+37. [ ] Git and Github
+38. [ ] Deploying
+39. [ ] JavaScript: The Tricky Stuff
