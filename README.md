@@ -31,7 +31,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 29. [x] RESTful Routing - Blog App
 30. [x] Databases: Associations
 31. [x] YelpCamp: Comments
-32. [ ] Authentication - PassportJS
+32. [x] Authentication - PassportJS
 33. [ ] YelpCamp: Adding Auth
 34. [ ] YelpCamp: Cleaning Up
 35. [ ] YelpCamp: Update and Destroy
