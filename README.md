@@ -35,7 +35,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 33. [x] YelpCamp: Adding Auth
 34. [x] YelpCamp: Cleaning Up
 35. [x] YelpCamp: Update and Destroy
-36. [ ] YelpCamp: UI Improvements
+36. [x] YelpCamp: UI Improvements
 37. [ ] Git and Github
 38. [ ] Deploying
 39. [ ] JavaScript: The Tricky Stuff
