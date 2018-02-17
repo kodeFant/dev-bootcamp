@@ -69,3 +69,22 @@ SHOW        /campgrounds/:id
 
 NEW         campgrounds/:id/comments/new  GET
 CREATE      campgrounds/:id/comments      POST
+
+##Auth pt 1 - Add User Model
+* Install all packages needed for auth
+* Define User Model
+
+##Auth Pr. 2 - Register
+* Configure Passport
+* Add register routes
+* Add register template
+
+##Auth Pt. 3 - Login
+* Add login routes
+* Add login template
+
+##Auth Pt. 4 - Logut/Navbar
+* Add logout route
+* Prevent user from adding a comment if not signed in
+* Add links to navbar
+* Show/hide auth links correctly
