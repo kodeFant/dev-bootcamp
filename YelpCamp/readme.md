@@ -88,3 +88,14 @@ CREATE      campgrounds/:id/comments      POST
 * Prevent user from adding a comment if not signed in
 * Add links to navbar
 * Show/hide auth links correctly
+
+##Refactor the Routes
+* Use Express router to reorganize all routes
+
+##Users + Comments
+* Associate users and comments
+* Save author's name to a comment automatically
+
+#Users + Campgrounds
+* Prevent an unauthenticated user from creating a campground
+* Save username+id to newly created campground

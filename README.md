@@ -33,7 +33,7 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 31. [x] YelpCamp: Comments
 32. [x] Authentication - PassportJS
 33. [x] YelpCamp: Adding Auth
-34. [ ] YelpCamp: Cleaning Up
+34. [x] YelpCamp: Cleaning Up
 35. [ ] YelpCamp: Update and Destroy
 36. [ ] YelpCamp: UI Improvements
 37. [ ] Git and Github
