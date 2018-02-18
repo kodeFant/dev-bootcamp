@@ -37,5 +37,5 @@ Project files from Colt Steele's Web Development Bootcamp (Udemy)
 35. [x] YelpCamp: Update and Destroy
 36. [x] YelpCamp: UI Improvements
 37. [x] Git and Github
-38. [ ] Deploying
-39. [ ] JavaScript: The Tricky Stuff
+38. [x] Deploying
+39. [x] JavaScript: The Tricky Stuff
